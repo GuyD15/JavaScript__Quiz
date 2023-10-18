@@ -12,7 +12,7 @@ const beginButton = document.querySelector('#start');
 const playerName = document.querySelector('#initials');
 const feedbackSection = document.querySelector('#feedback');
 
-// Start the quiz
+// Start the worst quiz ever made
 function initiateQuiz() {
   const introScreen = document.querySelector('#start-screen');
   introScreen.classList.add('hide');
